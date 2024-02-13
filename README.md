@@ -8,7 +8,7 @@
 
 [download banner](./banner.jpg)
 
-#คำสัง git พี
+##คำสัง git พื้นฐาน
 
 '''
 git status
@@ -16,13 +16,11 @@ git add
 git commit
 '''
 
-#คำสัง python 
+##คำสัง python พื้นฐาน
 
-'''
+'''python 
 d = {'anna': 3.99,'betty':3.78}
-
 for k,v in d.items():
-
   print(k,v)
 '''
 
