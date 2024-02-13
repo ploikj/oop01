@@ -1,3 +1,24 @@
-l [banner]![AI-วาดรูป-NightCafe-ตัวอย่างภาพ-1024x569](https://github.com/ploikj/oop01/assets/159878752/7a4ef2f3-33b3-4ef9-9bc8-3491a387a0c1)
+[banner]![AI-วาดรูป-NightCafe-ตัวอย่างภาพ-1024x569](https://github.com/ploikj/oop01/assets/159878752/7a4ef2f3-33b3-4ef9-9bc8-3491a387a0c1)
 
 #สมุดบันทึก
+
+สำหรับวิชา oop
+
+![ai-generated-7787717_1280](https://github.com/ploikj/oop01/assets/159878752/c4405be9-2ff9-40ef-8f8c-78fa27bc43b1)
+
+#คำสัง git พี
+'''
+git status
+git add
+git commit
+'''
+
+#คำสัง python 
+'''
+d = {'anna': 3.99,'betty':3.78}
+for k,v in d.items():
+  print(k,v)
+'''
+
+
+นราธิป
